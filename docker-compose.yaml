@@ -1,0 +1,5 @@
+version: "2.1"
+services:
+  ubuntu:
+    build: .
+    image: "mattirantakomi/ubuntu-22.04:latest"
